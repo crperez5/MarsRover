@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TliUyW8d+m3yFyKTC8eHdWKgc4c7FfLNlhZesZ/SSzbaGp1eszGLNO8wZpowPuRWb6z2rwyutSZEI54v7QF3OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adriana\\source\\repos\\MarsRover\\Src\\MarsRover.Application\\MarsRover.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adriana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.10\\microsoft.extensions.logging.abstractions.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

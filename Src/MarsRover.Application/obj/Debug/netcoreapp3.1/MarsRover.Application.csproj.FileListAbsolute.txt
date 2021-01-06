@@ -1,0 +1,8 @@
+C:\Users\Adriana\source\repos\MarsRover\Src\MarsRover.Application\bin\Debug\netcoreapp3.1\MarsRover.Application.deps.json
+C:\Users\Adriana\source\repos\MarsRover\Src\MarsRover.Application\bin\Debug\netcoreapp3.1\MarsRover.Application.dll
+C:\Users\Adriana\source\repos\MarsRover\Src\MarsRover.Application\bin\Debug\netcoreapp3.1\MarsRover.Application.pdb
+C:\Users\Adriana\source\repos\MarsRover\Src\MarsRover.Application\obj\Debug\netcoreapp3.1\MarsRover.Application.AssemblyInfoInputs.cache
+C:\Users\Adriana\source\repos\MarsRover\Src\MarsRover.Application\obj\Debug\netcoreapp3.1\MarsRover.Application.AssemblyInfo.cs
+C:\Users\Adriana\source\repos\MarsRover\Src\MarsRover.Application\obj\Debug\netcoreapp3.1\MarsRover.Application.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\MarsRover\Src\MarsRover.Application\obj\Debug\netcoreapp3.1\MarsRover.Application.dll
+C:\Users\Adriana\source\repos\MarsRover\Src\MarsRover.Application\obj\Debug\netcoreapp3.1\MarsRover.Application.pdb
